@@ -3,4 +3,4 @@
   <h1>selenophile</h1>
 </div>
 <h3>My skills</h3>
-<img src='https://skillicons.dev/icons?i=html,css,js,bootstrap' alt='skills'/>
+<img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,github' alt='skills'/>
